@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @larsloetgering
-My name is Lars Loetgering. I am a postdoctoral researcher interested in Computational Imaging, Algorithm Design, and Optics. 
+Hi, I’m @larsloetgering
+I am a postdoctoral researcher interested in Computational Imaging, Algorithm Design, and Optics. 
 Since January 2021 I am affiliated with the Fibre and Waveguide Lasers Group of Jens Limpert at Helmholtz Institute and Institute 
 of Applied Physics, Jena, where I am working on XUV ptychography together with Jan Rothhardt. Moreover, I have a part-time 
 position in the Bio-Nanoimaging Group of Rainer Heintzmann at IPHT Jena, where I work on inverse modeling. Previously, I worked 
